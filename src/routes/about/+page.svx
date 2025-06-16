@@ -1,1 +1,5 @@
-<h1>About swyxkit!</h1>
+<script>
+  import { SITE_TITLE } from '$lib/siteConfig';
+</script>
+
+<h1>About {SITE_TITLE}!</h1>
